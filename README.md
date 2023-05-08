@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarah-za
 - 👀 I’m interested in learning more programming and problem-solving skills
-- 💞️ I’m looking to collaborate in hackathons and other projects
+- 🤝🏻I’m looking to collaborate in hackathons and other projects
 - 📫 Reach me at ahmes134@mcmaster.ca
 
 <!---
