@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2 align="center"> Languages & Tools </h2>
-
 <ul style="display: inline-block;" align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
