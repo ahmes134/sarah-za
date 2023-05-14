@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <ul> 🤝🏻I’m looking to collaborate in hackathons and other projects </ul>
 <ul> 📫 Reach me at ahmes134@mcmaster.ca </ul>
 
-<h2 align="center"> Development Tools </h2>
+<h2 align="center"> Languages & Tools </h2>
 <ul style="display: inline-block;" align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" />
 </ul>
 
-<h2 align="center"> Design Tools </h2>
+<h2 align="center"> Design </h2>
 <ul style="display: inline-block;" align="center">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
