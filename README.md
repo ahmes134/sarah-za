@@ -1,5 +1,5 @@
 <h2 align="center"> About Me </h2>
-- 👋 Hi, I’m @sarah-za
+<ul>👋 Hi, I’m @sarah-za </ul>
 - 👀 I’m interested in learning more programming and problem-solving skills
 - 🤝🏻I’m looking to collaborate in hackathons and other projects
 - 📫 Reach me at ahmes134@mcmaster.ca
