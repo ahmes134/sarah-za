@@ -1,13 +1,13 @@
+<!---
+sarah-za/sarah-za is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 <h2 align="center"> About Me </h2>
 <ul>👋 Hi, I’m @sarah-za </ul>
 <ul> 👀 I’m interested in learning more programming and problem-solving skills </ul>
 <ul> 🤝🏻I’m looking to collaborate in hackathons and other projects </ul>
 <ul> 📫 Reach me at ahmes134@mcmaster.ca </ul>
-
-<!---
-sarah-za/sarah-za is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <h2 align="center"> Languages & Tools </h2>
 <ul style="display: inline-block;" align="center">
