@@ -1,8 +1,8 @@
 <h2 align="center"> About Me </h2>
 <ul>👋 Hi, I’m @sarah-za </ul>
-- 👀 I’m interested in learning more programming and problem-solving skills
-- 🤝🏻I’m looking to collaborate in hackathons and other projects
-- 📫 Reach me at ahmes134@mcmaster.ca
+<ul> 👀 I’m interested in learning more programming and problem-solving skills </ul>
+<ul> 🤝🏻I’m looking to collaborate in hackathons and other projects </ul>
+<ul> 📫 Reach me at ahmes134@mcmaster.ca </ul>
 
 <!---
 sarah-za/sarah-za is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
