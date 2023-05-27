@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center"> About Me </h2>
 <ul>👋 Hi, I’m @sarah-za </ul>
-<ul> 👀 I’m interested in learning more programming and problem-solving skills </ul>
+<ul> 👀 I’m interested in learning more programming and developing problem-solving skills </ul>
 <ul> 🤝🏻I’m looking to collaborate in hackathons and other projects </ul>
 <ul> 📫 Reach me at ahmes134@mcmaster.ca </ul>
 
